@@ -1,7 +1,7 @@
 
 function setup() {
   createCanvas(1280, 720);
-  noLoop();
+  //noLoop();
 	frameRate(1);
   
 }
